@@ -108,3 +108,5 @@ JAVA settings for the Consensus node
 - `BLOCK_NODE_IMAGE_TAG`: The version tag for the Block node image
 - `BLOCK_NODE_MEM_LIMIT`: Memory limit for the Block node container
 - `BLOCK_NODE_LOGS_ROOT_PATH`: Root path of logs directory for Block node
+
+<!-- Auto-update: 2025-10-14T12:31:08.111793 -->
