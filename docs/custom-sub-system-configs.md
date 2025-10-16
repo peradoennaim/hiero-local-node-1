@@ -119,3 +119,5 @@ The following table lists the available properties along with their default valu
 | Name                                       | Default | Description                                                                        |
 |--------------------------------------------|---------|------------------------------------------------------------------------------------|
 | `hedera.mirror.web3.opcode.tracer.enabled` | true    | Whether the `/contracts/results/{transactionIdOrHash}/opcodes` endpoint is exposed |
+
+<!-- Auto-update: 2025-10-16T12:47:09.067160 -->
